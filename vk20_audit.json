@@ -1,0 +1,41 @@
+{
+  "backward_edges": 0,
+  "baseline_output_delta": {
+    "divisions": 4,
+    "edges": 232,
+    "nodes": 841,
+    "rows": 1073
+  },
+  "baseline_output_match": false,
+  "candidate_output_changed": true,
+  "clean_graph_audit": true,
+  "cross_dataset_edge_suspects": 0,
+  "datasets": 4,
+  "divisions": 615,
+  "duplicate_edges": 0,
+  "duplicate_nodes": 0,
+  "edges": 119932,
+  "experiment": "biohub_vk20_atomic_ilp_reconcile_v1",
+  "indegree_over_1": 0,
+  "known_output_signature": {
+    "divisions": 611,
+    "edges": 119700,
+    "nodes": 123567,
+    "rows": 243267
+  },
+  "maximum_indegree": 1,
+  "maximum_outdegree": 2,
+  "missing_edge_endpoints": 0,
+  "mode": "private",
+  "negative_time_nodes": 0,
+  "nodes": 124408,
+  "non_adjacent_edges": 0,
+  "nonfinite_coordinate_nodes": 0,
+  "notebook": "biohub-cell-tracking_v9.0.ipynb",
+  "outdegree_over_2": 0,
+  "recommendation": "Optimization run: compare the official score against v8.2 (0.921); keep only if it improves.",
+  "rows": 244340,
+  "same_frame_edges": 0,
+  "submission_sha256": "9e71194cc97e6ff065ee7550f0607770d73f0f6e81b220c583c4d39c0ed616ec",
+  "v82_reference_hash": "A47F8FA2D48A775CD1B693B5E7F2EF82D1758FEBD84F39902D8E8CB180CC38E2"
+}
